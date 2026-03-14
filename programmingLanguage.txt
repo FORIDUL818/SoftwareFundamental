@@ -1,0 +1,71 @@
+A programming language is a special type of language used to give instructions to a computer so it can perform tasks.
+
+Simple Definition
+
+A programming language is a formal language used by developers to write programs that tell a computer what to do and how to do it.
+
+Easy Way to Think About It
+
+Think of it like this:
+
+Humans talk using natural languages (English, Bangla).
+
+Computers understand only machine instructions.
+
+A programming language acts as the bridge between humans and computers.
+
+So developers write instructions in a programming language, and the computer translates those instructions into machine code and executes them.
+
+Example
+
+Here is a simple example in JavaScript:
+
+console.log("Hello World");
+
+This instruction tells the computer:
+
+"Display the text Hello World on the screen."
+
+Main Parts of a Programming Language
+
+A programming language usually has:
+
+Syntax – The rules for writing code
+
+Semantics – The meaning of the code
+
+Keywords – Reserved words like if, for, function
+
+Variables – Used to store data
+
+Control structures – Logic like conditions and loops
+
+Popular Programming Languages
+
+Some well-known programming languages include:
+
+JavaScript – Web development
+
+Python – AI, data science, automation
+
+Java – Enterprise software, Android apps
+
+C++ – Game engines, systems programming
+
+Go – Backend and cloud systems
+
+Real-Life Analogy
+
+Imagine a chef and a recipe:
+
+The chef = Computer
+
+The recipe = Program
+
+The language of the recipe = Programming language
+
+The chef follows the recipe step-by-step to cook the dish, just like a computer follows program instructions.
+
+In One Line
+
+A programming language is a tool that developers use to communicate with computers and build software.
